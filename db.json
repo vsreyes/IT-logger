@@ -8,11 +8,11 @@
       "id": 1
     },
     {
-      "message": "Hard drive failed in workstation 002",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-07-26T23:15:43.478Z",
-      "id": 2
+      "id": 2,
+      "message": "Fixed hard drive in workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-07-27T21:23:05.085Z"
     },
     {
       "message": "1122 wireless down",
@@ -20,6 +20,20 @@
       "tech": "Sara Wilson",
       "date": "2020-07-26T23:16:28.411Z",
       "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Router disconnected at lap 203",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-07-27T21:24:47.368Z"
+    },
+    {
+      "message": "Possible virus at computer lab #1-345",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-07-27T21:24:37.068Z",
+      "id": 5
     }
   ],
   "techs": [
