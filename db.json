@@ -1,11 +1,11 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Changed network card in server 007",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2020-07-26T23:14:18.249Z",
-      "id": 1
+      "tech": "Sam \n        Smith",
+      "date": "2020-07-28T20:20:27.421Z"
     },
     {
       "id": 2,
@@ -29,11 +29,18 @@
       "date": "2020-07-27T21:24:47.368Z"
     },
     {
+      "id": 5,
       "message": "Possible virus at computer lab #1-345",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-07-27T21:24:37.068Z",
-      "id": 5
+      "tech": "Sam \n        Smith",
+      "date": "2020-07-28T20:20:35.806Z"
+    },
+    {
+      "message": "Scan projectors in lab #345 for viruses",
+      "attention": false,
+      "tech": "John \n        Doe",
+      "date": "2020-07-28T20:16:06.022Z",
+      "id": 6
     }
   ],
   "techs": [
