@@ -41,6 +41,13 @@
       "tech": "John \n        Doe",
       "date": "2020-07-28T20:16:06.022Z",
       "id": 6
+    },
+    {
+      "message": "Server error at computer lab #456",
+      "attention": true,
+      "tech": "Greg \n        Harrison",
+      "date": "2020-07-29T17:29:00.166Z",
+      "id": 7
     }
   ],
   "techs": [
@@ -58,6 +65,16 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Smith",
+      "id": 5
+    },
+    {
+      "firstName": "Katsuo",
+      "lastName": "Matsumoto",
+      "id": 6
     }
   ]
 }
